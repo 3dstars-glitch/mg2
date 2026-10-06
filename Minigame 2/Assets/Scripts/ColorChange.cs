@@ -6,7 +6,7 @@ public class ColorChange : MonoBehaviour
     [SerializeField] private TMP_Text _healthText;
     [SerializeField] private SpriteRenderer _spriteRenderer;
 
-    private int health = 3;
+    private int health = 4;
 
     private void Start()
     {
